@@ -1,5 +1,5 @@
 ## Complete list of Win8.1x64 kb updates</br>
-in chromological order.
+in chronological order.
 
 *-*- = Cannot be Uninstalled.</p>
 
