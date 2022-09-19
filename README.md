@@ -9,7 +9,7 @@ in chromological order.
 11/6/2020 - Security Update for Microsoft Windows (KB3020393)</br>
 11/6/2020 - Update for Microsoft Windows (KB4578962)</br>
 11/6/2020 - Update for Microsoft Windows (KB4578953)</br>
-11/6/2020 - bUpdate for Microsoft Windows (KB4567409) </br>
+11/6/2020 - Update for Microsoft Windows (KB4567409) </br>
 11/6/2020 - Security Update for Microsoft Windows (KB2982998)</p>
 
 ------
