@@ -231,7 +231,7 @@ Indeterminate ?</br>
 --------------------
 
 page 5-6 verified, OCR may have some mistakes... </br>
-i converted to B&W, crop, changed light & shadow levels to make OCR easy.</p>
+i converted to B&W, crop, changed light & shadow to make OCR easy.</p>
 
 page1/6![image](https://user-images.githubusercontent.com/33388902/191124295-04d6e2fc-f6bc-4e34-a230-99b17d8c7828.png)
 
