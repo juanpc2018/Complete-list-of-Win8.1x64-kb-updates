@@ -230,6 +230,9 @@ Indeterminate ?</br>
 
 --------------------
 
+page 5-6 verified, OCR may have some mistakes... </br>
+i converted to B&W, crop, changed light & shadow levels to make OCR easy.</p>
+
 page1/6![image](https://user-images.githubusercontent.com/33388902/191124295-04d6e2fc-f6bc-4e34-a230-99b17d8c7828.png)
 
 page2/6![image](https://user-images.githubusercontent.com/33388902/191124350-4b016495-2c3c-48e5-a062-2d7d66a42e72.png)
