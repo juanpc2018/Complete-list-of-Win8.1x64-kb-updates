@@ -36,116 +36,64 @@ Indeterminate ?</br>
 7/2/2018 - Update for Microsoft Windows (KB4041777)</br>
 7/2/2018 - Update for Microsoft Windows (KB4040972)</br>
 7/2/2018 - Security Update for Adobe Flash Player </P>
+
 ----------------------
 
-Security Update for Adobe Flash Player
-Update for Microsoft Windows (KB3150513)</br>
-Update for Microsoft Windows (KB3003667)</br>
-Update for Microsoft Windows (KB3184143)</br>
-Update for Microsoft Windows (KB3179574)</br>
-Update for Microsoft Windows (KB3172614)</br>
-Update for Microsoft Windows (KB3147071)</br>
-Update for Microsoft Windows (KB3146751)</br>
-Update for Microsoft Windows (KB3146604)</br>
-Update for Microsoft Windows (KB3145384)</br>
-Update for Microsoft Windows (KB3140234)</br>
-Update for Microsoft Windows (KB3140222)</br>
-Update for Microsoft Windows (KB3140219)</br>
-Update for Microsoft Windows (KB3140185)</br>
-Update for Microsoft Windows (KB3138602)</br>
-Update for Microsoft Windows (KB3138378)</br>
-Update for Microsoft Windows (KB3137728)</br>
-Update for Microsoft Windows (KB3134815)</br>
-Update for Microsoft Windows (KB3133690)</br>
-Update for Microsoft Windows (KB3126030)</br>
-Update for Microsoft Windows (KB3121261)</br>
-Update for Microsoft Windows (KB3115224)</br>
-Update for Microsoft Windows (KB3109976)</br>
-Update for Microsoft Windows (KB3103709)</br>
-Update for Microsoft Windows (KB3103696)</br>
-Update for Microsoft Windows (KB3103616)</br>
-Update for Microsoft Windows (KB3102429)</br>
-Update for Microsoft Windows (KB3100473)</br>
-Update for Microsoft Windows (KB309834)</br>
-Update for Microsoft Windows (KB3095701)</br>
-Update for Microsoft Windows (KB3091297)</br>
-Update for Microsoft Windows (KB3087137)</br>
-Update for Microsoft Windows (KB3087041)</br>
-Update for Microsoft Windows (KB3084905)</br>
-Update for Microsoft indows (KB3080800)</br>
-Update for Microsoft Windows (KB3080149)</br>
-Update for Microsoft Windows (KB3078676)</br>
-Update for Microsoft Windows (KB3078405)</br>
-Update for Microsoft Windows (KB3072019)</br>
-
-12/22/2017
-12/22/2017
-12/22/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
+12/22/2017 - Security Update for Adobe Flash Player
+12/22/2017 - Update for Microsoft Windows (KB3150513)</br>
+12/22/2017 - Update for Microsoft Windows (KB3003667)</br>
+12/10/2017 - Update for Microsoft Windows (KB3184143)</br>
+12/10/2017 - Update for Microsoft Windows (KB3179574)</br>
+12/10/2017 - Update for Microsoft Windows (KB3172614)</br>
+12/10/2017 - Update for Microsoft Windows (KB3147071)</br>
+12/10/2017 - Update for Microsoft Windows (KB3146751)</br>
+12/10/2017 - Update for Microsoft Windows (KB3146604)</br>
+12/10/2017 - Update for Microsoft Windows (KB3145384)</br>
+12/10/2017 - Update for Microsoft Windows (KB3140234)</br>
+12/10/2017 - Update for Microsoft Windows (KB3140222)</br>
+12/10/2017 - Update for Microsoft Windows (KB3140219)</br>
+12/10/2017 - Update for Microsoft Windows (KB3140185)</br>
+12/10/2017 - Update for Microsoft Windows (KB3138602)</br>
+12/10/2017 - Update for Microsoft Windows (KB3138378)</br>
+12/10/2017 - Update for Microsoft Windows (KB3137728)</br>
+12/10/2017 - Update for Microsoft Windows (KB3134815)</br>
+12/10/2017 - Update for Microsoft Windows (KB3133690)</br>
+12/10/2017 - Update for Microsoft Windows (KB3126030)</br>
+12/10/2017 - Update for Microsoft Windows (KB3121261)</br>
+12/10/2017 - Update for Microsoft Windows (KB3115224)</br>
+12/10/2017 - Update for Microsoft Windows (KB3109976)</br>
+12/10/2017 - Update for Microsoft Windows (KB3103709)</br>
+12/10/2017 - Update for Microsoft Windows (KB3103696)</br>
+12/10/2017 - Update for Microsoft Windows (KB3103616)</br>
+12/10/2017 - Update for Microsoft Windows (KB3102429)</br>
+12/10/2017 - Update for Microsoft Windows (KB3100473)</br>
+12/10/2017 - Update for Microsoft Windows (KB309834)</br>
+12/10/2017 - Update for Microsoft Windows (KB3095701)</br>
+12/10/2017 - Update for Microsoft Windows (KB3091297)</br>
+12/10/2017 - Update for Microsoft Windows (KB3087137)</br>
+12/10/2017 - Update for Microsoft Windows (KB3087041)</br>
+12/10/2017 - Update for Microsoft Windows (KB3084905)</br>
+12/10/2017 - Update for Microsoft indows (KB3080800)</br>
+12/10/2017 - Update for Microsoft Windows (KB3080149)</br>
+12/10/2017 - Update for Microsoft Windows (KB3078676)</br>
+12/10/2017 - Update for Microsoft Windows (KB3078405)</br>
+12/10/2017 - Update for Microsoft Windows (KB3072019)</br>
 
 --------------------------
 
-Update for Microsoft Windows (KB3072019)</br>
-Update for Microsoft Windows (KB3064059)</br>
-Update for Microsoft Windows (KB3063843)</br>
-Update for Microsoft Windows (KB3061493)</br>
-Update for Microsoft Windows (KB3060793)</br>
-Update for Microsoft Windows (KB3056347)</br>
-Update for Microsoft Windows (KB3055343)</br>
-Update for Microsoft Windows (KB3055323)</br>
-Update for Microsoft Windows (KB3054464)</br>
-Update for Microsoft Windows (KB3054256)</br>
-Update for Microsoft Windows (KB3054169)</br>
-Update for Microsoft Windows (KB3053863)</br>
-Update for Microsoft Windows (KB3047254)</br>
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
+12/10/2017 - Update for Microsoft Windows (KB3072019)</br>
+12/10/2017 - Update for Microsoft Windows (KB3064059)</br>
+12/10/2017 - Update for Microsoft Windows (KB3063843)</br>
+12/10/2017 - Update for Microsoft Windows (KB3061493)</br>
+12/10/2017 - Update for Microsoft Windows (KB3060793)</br>
+12/10/2017 - Update for Microsoft Windows (KB3056347)</br>
+12/10/2017 - Update for Microsoft Windows (KB3055343)</br>
+12/10/2017 - Update for Microsoft Windows (KB3055323)</br>
+12/10/2017 - Update for Microsoft Windows (KB3054464)</br>
+12/10/2017 - Update for Microsoft Windows (KB3054256)</br>
+12/10/2017 - Update for Microsoft Windows (KB3054169)</br>
+12/10/2017 - Update for Microsoft Windows (KB3053863)</br>
+12/10/2017 - Update for Microsoft Windows (KB3047254)</br>
 12/10/2017 - Hotfixfor Microsoft Windows (KB3046737)</br>
 12/10/2017 - Update for Microsoft Windows (KB3046480)</br>
 12/10/2017 - Update for Microsoft Windows (KB3045719)</br>
