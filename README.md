@@ -1,8 +1,15 @@
 ## Complete list of Win8.1x64 kb updates</br>
 in chromological order.
 
-9/6/2022 - Security Update for Microsoft Windows (KB4471320)</br>
-9/6/2022 - Security Update for Microsoft Windows (KB5016264)</br>
+*-*- = Cannot be Uninstalled.</p>
+
+*-*-9/6/2022 - Security Update for Microsoft Windows (KB5016264)</br>
+*-*-9/6/2022 - Security Update for Microsoft Windows (KB5016681)</br>
+9/6/2022 - Update for Microsoft Windows (KB5016370)</br>
+9/6/2022 - Update for Microsoft Windows (KB5016268)</p>
+
+-------------
+
 11/7/2020 - Update for Microsoft Windows (KB4578976)</br>
 11/6/2020 - Security update for Adobe Flash Player</br>
 11/6/2020 - Update for Microsoft Windows (KB4486105)</br>
@@ -82,10 +89,6 @@ Indeterminate ?</br>
 12/10/2017 - Update for Microsoft Windows (KB3078676)</br>
 12/10/2017 - Update for Microsoft Windows (KB3078405)</br>
 12/10/2017 - Update for Microsoft Windows (KB3072019)</br>
-
---------------------------
-
-12/10/2017 - Update for Microsoft Windows (KB3072019)</br>
 12/10/2017 - Update for Microsoft Windows (KB3064059)</br>
 12/10/2017 - Update for Microsoft Windows (KB3063843)</br>
 12/10/2017 - Update for Microsoft Windows (KB3061493)</br>
@@ -126,11 +129,11 @@ Indeterminate ?</br>
 12/10/2017 - Update for Microsoft Windows (KB2990967)</br>
 12/10/2017 - Update for Microsoft Windows (KB2989930)</br>
 12/10/2017 - Microsoft Camera Codec Pack</br>
-12/10/2017 - Update for Microsoft Windows (KB3161102)</br>
+*-*-12/10/2017 - Update for Microsoft Windows (KB3161102)</br>
 12/10/2017 - Update for Microsoft Windows (KB3013531)</br>
 12/4/2017 - Security Update for Adobe Flash Player</br>
 12/4/2017 - Security Update for Microsoft Windows (KB3172729)</br>
-11/28/2017 - Update for Microsoft Windows (KB3173424)</br>
+*-*-11/28/2017 - Update for Microsoft Windows (KB3173424)</br>
 11/28/2017 - Security Update for Adobe Flash Player</br>
 11/28/2017 - Update for Microsoft Windows (KB4040981)</br>
 11/28/2017 - Security Update for Microsoft Windows (KB3187754)</br>
@@ -227,10 +230,18 @@ Indeterminate ?</br>
 
 --------------------
 
+file:///media/mama/MX500-1TB/Win81Updates/2022/kb2022-all.JPG![image](https://user-images.githubusercontent.com/33388902/191124295-04d6e2fc-f6bc-4e34-a230-99b17d8c7828.png)
 
 
+file:///media/mama/MX500-1TB/Win81Updates/KB-all-2.JPG![image](https://user-images.githubusercontent.com/33388902/191124350-4b016495-2c3c-48e5-a062-2d7d66a42e72.png)
 
+file:///media/mama/MX500-1TB/Win81Updates/kb-all-3.JPG![image](https://user-images.githubusercontent.com/33388902/191124373-508bb286-8ffd-4f71-be32-5f0f6ccafb61.png)
 
+file:///media/mama/MX500-1TB/Win81Updates/kb-all-4.JPG![image](https://user-images.githubusercontent.com/33388902/191124406-9fa70e09-e1bb-477f-a2b0-466e664e86d5.png)
+
+file:///media/mama/MX500-1TB/Win81Updates/kb-all-5.JPG![image](https://user-images.githubusercontent.com/33388902/191124439-9e511ac8-eaac-4b22-aa41-a1a7f23c5a05.png)
+
+file:///media/mama/MX500-1TB/Win81Updates/kb-all-6.JPG![image](https://user-images.githubusercontent.com/33388902/191124488-09a8e2dc-ca02-4801-afb9-9972f5d48812.png)
 
 
 
