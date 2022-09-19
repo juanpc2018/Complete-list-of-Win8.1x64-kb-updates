@@ -12,8 +12,12 @@ in chromological order.
 11/6/2020 - bUpdate for Microsoft Windows (KB4567409) </br>
 11/6/2020 - Security Update for Microsoft Windows (KB2982998)</p>
 
+------
+
 Indeterminate ?</br>
 11/21/2020 - Update for (KB2504637)</p>
+
+------
 
 12/27/2018 - Security Update for Microsoft Windows (KB4483187)</br>
 12/27/2018 - Security update for Adobe Flash Player</br>
@@ -39,7 +43,7 @@ Indeterminate ?</br>
 
 ----------------------
 
-12/22/2017 - Security Update for Adobe Flash Player
+12/22/2017 - Security Update for Adobe Flash Player</br>
 12/22/2017 - Update for Microsoft Windows (KB3150513)</br>
 12/22/2017 - Update for Microsoft Windows (KB3003667)</br>
 12/10/2017 - Update for Microsoft Windows (KB3184143)</br>
@@ -98,56 +102,28 @@ Indeterminate ?</br>
 12/10/2017 - Update for Microsoft Windows (KB3046480)</br>
 12/10/2017 - Update for Microsoft Windows (KB3045719)</br>
 12/10/2017 - Update for Microsoft Windows (KB3045717)</br>
-
-Update for Microsoft Windows (KB3045634)</br>
-Update for Microsoft Windows (KB3044673)</br>
-Update for Microsoft Windows (KB3038002)</br>
-Update for Microsoft Windows (KB3037924)</br>
-Update for Microsoft Windows (KB3036612)</br>
-Update for Microsoft Windows (KB3033446)</br>
-Update for Microsoft Windows (KB3030947)</br>
-Update for Microsoft Windows (KB3029606)</br>
-Update for Microsoft Windows (KB3024755)</br>
-Update for Microsoft Windows (KB3024751)</br>
-Update for Microsoft Windows (KB3020370)</br>
-Update for Microsoft Windows (KB3018133)</br>
-Update for Microsoft Windows (KB3015696)</br>
-Update for Microsoft Windows (KB3013816)</br>
-Update for Microsoft Windows (KB3013791)</br>
-Update for Microsoft Windows (KB3013769)</br>
-Update for Microsoft Windows (KB3013538)</br>
-Update for Microsoft Windows (KB3013172)</br>
-Update for Microsoft Windows (KB3012702)</br>
-Update for Microsoft Windows (KB3012235)</br>
-Hotfix for Microsoft Windows (KB3004545)</br>
-Update for Microsoft Windows (KB2990967)</br>
-Update for Microsoft Windows (KB2989930)</br>
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-12/10/2017
-
----------------
-
+12/10/2017 - Update for Microsoft Windows (KB3045634)</br>
+12/10/2017 - Update for Microsoft Windows (KB3044673)</br>
+12/10/2017 - Update for Microsoft Windows (KB3038002)</br>
+12/10/2017 - Update for Microsoft Windows (KB3037924)</br>
+12/10/2017 - Update for Microsoft Windows (KB3036612)</br>
+12/10/2017 - Update for Microsoft Windows (KB3033446)</br>
+12/10/2017 - Update for Microsoft Windows (KB3030947)</br>
+12/10/2017 - Update for Microsoft Windows (KB3029606)</br>
+12/10/2017 - Update for Microsoft Windows (KB3024755)</br>
+12/10/2017 - Update for Microsoft Windows (KB3024751)</br>
+12/10/2017 - Update for Microsoft Windows (KB3020370)</br>
+12/10/2017 - Update for Microsoft Windows (KB3018133)</br>
+12/10/2017 - Update for Microsoft Windows (KB3015696)</br>
+12/10/2017 - Update for Microsoft Windows (KB3013816)</br>
+12/10/2017 - Update for Microsoft Windows (KB3013791)</br>
+12/10/2017 - Update for Microsoft Windows (KB3013769)</br>
+12/10/2017 - Update for Microsoft Windows (KB3013538)</br>
+12/10/2017 - Update for Microsoft Windows (KB3013172)</br>
+12/10/2017 - Update for Microsoft Windows (KB3012702)</br>
+12/10/2017 - Update for Microsoft Windows (KB3012235)</br>
+12/10/2017 - Hotfix for Microsoft Windows (KB3004545)</br>
+12/10/2017 - Update for Microsoft Windows (KB2990967)</br>
 12/10/2017 - Update for Microsoft Windows (KB2989930)</br>
 12/10/2017 - Microsoft Camera Codec Pack</br>
 12/10/2017 - Update for Microsoft Windows (KB3161102)</br>
