@@ -230,18 +230,17 @@ Indeterminate ?</br>
 
 --------------------
 
-file:///media/mama/MX500-1TB/Win81Updates/2022/kb2022-all.JPG![image](https://user-images.githubusercontent.com/33388902/191124295-04d6e2fc-f6bc-4e34-a230-99b17d8c7828.png)
+page1/6![image](https://user-images.githubusercontent.com/33388902/191124295-04d6e2fc-f6bc-4e34-a230-99b17d8c7828.png)
 
+page2/6![image](https://user-images.githubusercontent.com/33388902/191124350-4b016495-2c3c-48e5-a062-2d7d66a42e72.png)
 
-file:///media/mama/MX500-1TB/Win81Updates/KB-all-2.JPG![image](https://user-images.githubusercontent.com/33388902/191124350-4b016495-2c3c-48e5-a062-2d7d66a42e72.png)
+page3/6![image](https://user-images.githubusercontent.com/33388902/191124373-508bb286-8ffd-4f71-be32-5f0f6ccafb61.png)
 
-file:///media/mama/MX500-1TB/Win81Updates/kb-all-3.JPG![image](https://user-images.githubusercontent.com/33388902/191124373-508bb286-8ffd-4f71-be32-5f0f6ccafb61.png)
+page4/6![image](https://user-images.githubusercontent.com/33388902/191124406-9fa70e09-e1bb-477f-a2b0-466e664e86d5.png)
 
-file:///media/mama/MX500-1TB/Win81Updates/kb-all-4.JPG![image](https://user-images.githubusercontent.com/33388902/191124406-9fa70e09-e1bb-477f-a2b0-466e664e86d5.png)
+page5/6![image](https://user-images.githubusercontent.com/33388902/191124439-9e511ac8-eaac-4b22-aa41-a1a7f23c5a05.png)
 
-file:///media/mama/MX500-1TB/Win81Updates/kb-all-5.JPG![image](https://user-images.githubusercontent.com/33388902/191124439-9e511ac8-eaac-4b22-aa41-a1a7f23c5a05.png)
-
-file:///media/mama/MX500-1TB/Win81Updates/kb-all-6.JPG![image](https://user-images.githubusercontent.com/33388902/191124488-09a8e2dc-ca02-4801-afb9-9972f5d48812.png)
+page6/6![image](https://user-images.githubusercontent.com/33388902/191124488-09a8e2dc-ca02-4801-afb9-9972f5d48812.png)
 
 
 
