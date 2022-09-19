@@ -1,4 +1,4 @@
-## Complete-list-of-Win8.1x64-kb-updates</br>
+## Complete list of Win8.1x64 kb updates</br>
 in chromological order.
 
 9/6/2022 - Security Update for Microsoft Windows (KB4471320)</br>
