@@ -34,7 +34,7 @@ CMPXCHG16b and LAHF/SAHF (and PrefetchW, but that's kind of a red herring) for t
 probably CPUs older than Q9650 wont install, [1st Gen 64-Bit CPUs](https://superuser.com/questions/187254/how-prevalent-are-old-x64-processors-lacking-the-cmpxchg16b-instruction) wont install. </br>
 
 Some computers & tablets like Microsoft Surface Pro 2 or HP Stream 7 comes with Windows 8.1 OEM or Bing OEM </br>
-Product Key Activation License is included / stored on the BIOS / UEFI of the Machine, insterad of Stiker. </br>
+Product Key Activation License is included / stored on the BIOS / UEFI of the Machine, instead of a Stiker. </br>
 there is a tool to read the key stored on the machine, but... </br>
 OEM Keys can only be activated on 1 machine, and Win8.1 OEM detects the Key automatically. </br>
 Windows8.1 Pro requires a different Key & Different installer .iso usually phone activation. </br>
