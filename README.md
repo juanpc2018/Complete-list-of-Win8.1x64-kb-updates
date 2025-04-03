@@ -25,7 +25,8 @@ or... copy an older waupdate.exe over the newer waupdate.exe, </br>
 you can tell by file size. </br>
 
 Clean install Windows8.1 has problems with waupdate.exe, </br>
-on-line updates do Not work until manually download & install ["2014 Update Pack"](https://en.wikipedia.org/wiki/Windows_8.1#Update) </br>
+on-line updates do Not work on a real machine until manually download & install ["2014 Update Pack"](https://en.wikipedia.org/wiki/Windows_8.1#Update) </br>
+but works when installing on a VM like VirtualBox6 </br>
 
 -------------
 
