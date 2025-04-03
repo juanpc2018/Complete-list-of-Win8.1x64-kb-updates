@@ -17,7 +17,7 @@ but when you move the SSD to a Newer machine Z270+7700K or Z370 </br>
 waupdate.exe creates a pop-up message that cannot be closed. </br>
 Message is something like: "Update to Windows10 Now for security reasons"  </br>
 that "Alert" was introduced around the time Spectre & Meltdown was discovered. </br>
-there is a website that updated all Bios for X58 boards for Anti-Spectre & Anti-Meldtown. </br>
+there is a website that updated all Bios for X58 boards for Anti-Spectre & Anti-Meltdown. </br>
 
 -------------
 
