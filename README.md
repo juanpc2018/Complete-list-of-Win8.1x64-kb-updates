@@ -21,9 +21,11 @@ there is a website that updated all Bios for X58 boards for Anti-Spectre & Anti-
 
 to stop the pop-up message requires to take ownership of wuaupdate.exe </br>
 and dissable Read attributes. </br>
+or... copy an older waupdate.exe over the newer waupdate.exe, </br>
+you can tell by file size. </br>
 
-Clean install of Windows8.1 has problems with waupdate, </br>
-automatic updates do Not work until manually download & install ["2014 Update Pack"](https://en.wikipedia.org/wiki/Windows_8.1#Update) </br>
+Clean install Windows8.1 has problems with waupdate.exe, </br>
+on-line updates do Not work until manually download & install ["2014 Update Pack"](https://en.wikipedia.org/wiki/Windows_8.1#Update) </br>
 
 -------------
 
