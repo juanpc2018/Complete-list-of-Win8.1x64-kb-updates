@@ -19,6 +19,9 @@ Message is something like: "Update to Windows10 Now for security reasons"  </br>
 that "Alert" was introduced around the time Spectre & Meltdown was discovered. </br>
 there is a website that updated all Bios for X58 boards for Anti-Spectre & Anti-Meltdown. </br>
 
+to stop the pop-up message requires to take ownership of wuaupdate.exe </br>
+and dissable Read attributes. </br>
+
 -------------
 
 11/7/2020 - Update for Microsoft Windows (KB4578976)</br>
