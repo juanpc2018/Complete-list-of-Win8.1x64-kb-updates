@@ -9,7 +9,7 @@ in chronological order.
 9/6/2022 - Update for Microsoft Windows (KB5016268)</p>
 
 2022 updates Disable ability to create USB Recovery Pendrive. </br>
-and Disable the ability to create System Image Backups to an external USB3 drive. </br>
+and Disable ability to create System Image Backups to an external USB3 drive. </br>
 
 There is another older update that only affects New machines </br>
 when you run Win8.1x64 on an older 2010-2013 machine, Nothing happens </br>
