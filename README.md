@@ -34,14 +34,15 @@ CMPXCHG16b and LAHF/SAHF (and PrefetchW, but that's kind of a red herring) for t
 probably CPUs older than Q9650 wont install, [1st Gen 64-Bit CPUs](https://superuser.com/questions/187254/how-prevalent-are-old-x64-processors-lacking-the-cmpxchg16b-instruction) wont install. </br>
 
 Some computers & tablets like Microsoft Surface Pro 2 or HP Stream 7 comes with Windows 8.1 OEM or Bing OEM </br>
-Product Key Activation License is included / stored on the BIOS / UEFI of the Machine. </br>
+Product Key Activation License is included / stored on the BIOS / UEFI of the Machine, insterad of Stiker. </br>
 there is a tool to read the key stored on the machine, but... </br>
-OEM Keys can only be activated on 1 machine. </br>
-and Windows8.1 OEM detects the Key automatically. </br>
-Windows8.1 Pro requires a different Key & Different installer .iso </br>
-Pro installer wont Activate with OEM Key stored on the BIOS / UEFI of the machine. </br>
-OEM installer wont Activate with Bing OEM Key stored on the BIOS / UEFI of the machine. </br>
-If machine has Bing OEM key on the Bios/uefi, requires Win8.1 Bing OEM installer, OEM installer wont work. </br>
+OEM Keys can only be activated on 1 machine, and Win8.1 OEM detects the Key automatically. </br>
+Windows8.1 Pro requires a different Key & Different installer .iso usually phone activation. </br>
+Pro installer wont Activate with OEM Key stored on the BIOS/UEFI of the machine. </br>
+OEM installer wont Activate with Bing OEM Key stored on the BIOS/UEFI of the machine. </br>
+If machine has Bing OEM key on the Bios/uefi, requires Win8.1 Bing OEM installer, </br>
+there is Bing OEM installer for 32-bit or 64-Bit </br>
+OEM installer & Pro installer wont Activate with Bing OEM key. </br>
 
 -------------
 
