@@ -23,7 +23,7 @@ to stop the pop-up message requires to take ownership of wuaupdate.exe </br>
 and dissable Read attributes. </br>
 
 Clean install of Windows8.1 has problems with waupdate, </br>
-automatic updates do Not work until manually download & install ["2014 Service Pack"](https://en.wikipedia.org/wiki/Windows_8.1#Update) </br>
+automatic updates do Not work until manually download & install ["2014 Update Pack"](https://en.wikipedia.org/wiki/Windows_8.1#Update) </br>
 
 -------------
 
