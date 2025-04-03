@@ -33,15 +33,15 @@ Windows8.1 requires a CPU with [PAE/NX/SSE2 instructions](https://web.archive.or
 CMPXCHG16b and LAHF/SAHF (and PrefetchW, but that's kind of a red herring) for the 64-bit version. </br>
 probably CPUs older than Q9650 wont install, [1st Gen 64-Bit CPUs](https://superuser.com/questions/187254/how-prevalent-are-old-x64-processors-lacking-the-cmpxchg16b-instruction) wont install. </br>
 
-Some computers & tablets like Microsoft Surface Pro 2 comes with Windows 8.1 OEM or Bing OEM </br>
-Product Key / Activation License is included on the BIOS / UEFI of the Machine. </br>
-there is a tool to read the key stored on the machine, but </br>
+Some computers & tablets like Microsoft Surface Pro 2 or HP Strem 7 comes with Windows 8.1 OEM or Bing OEM </br>
+Product Key Activation License is included / stored on the BIOS / UEFI of the Machine. </br>
+there is a tool to read the key stored on the machine, but... </br>
 OEM Keys can only be activated on 1 machine. </br>
 and Windows8.1 OEM detects the Key automatically. </br>
 Windows8.1 Pro requires a different Key & Different installer .iso </br>
 Pro installer wont Activate with OEM Key stored on the BIOS / UEFI of the machine. </br>
 OEM installer wont Activate with Bing OEM Key stored on the BIOS / UEFI of the machine. </br>
-If machine has Bing OEM key on the Bios/uefi, requires Win8.1 Bing OEM installer. </br>
+If machine has Bing OEM key on the Bios/uefi, requires Win8.1 Bing OEM installer, OEM installer wont work. </br>
 
 -------------
 
