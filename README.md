@@ -28,6 +28,11 @@ Clean install Windows8.1 has problems with waupdate.exe, </br>
 on-line updates do Not work on a real machine until manually download & install ["2014 Update Pack"](https://en.wikipedia.org/wiki/Windows_8.1#Update) </br>
 but works when installing on a VM like VirtualBox6 </br>
 
+Windows8.1 requires a CPU with [PAE/NX/SSE2 instructions](https://web.archive.org/web/20160419134234/https://technet.microsoft.com/en-us/library/dn482072.aspx) </br>
+64-Bit has aditional requirements: </br>
+CMPXCHG16b and LAHF/SAHF (and PrefetchW, but that's kind of a red herring) for the 64-bit version. </br>
+probably CPUs older than Q9650 wont install, [1st Gen 64-Bit CPUs](https://superuser.com/questions/187254/how-prevalent-are-old-x64-processors-lacking-the-cmpxchg16b-instruction) wont install. </br>
+
 -------------
 
 11/7/2020 - Update for Microsoft Windows (KB4578976)</br>
