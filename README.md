@@ -8,6 +8,17 @@ in chronological order.
 9/6/2022 - Update for Microsoft Windows (KB5016370)</br>
 9/6/2022 - Update for Microsoft Windows (KB5016268)</p>
 
+2022 updates Disable ability to create USB Recovery Pendrive. </br>
+and Disable the ability to create System Image Backups to an external USB3 drive. </br>
+
+There is another older update that only affects New machines </br>
+when you run Win8.1x64 on an older 2010-2013 machine, Nothing happens </br>
+but when you move the SSD to a Newer machine Z270+7700K or Z370 </br>
+waupdate.exe creates a pop-up message that cannot be closed. </br>
+Message is something like: "Update to Windows10 Now for security reasons"  </br>
+that "Alert" was introduced around the time Spectre & Meltdown was discovered. </br>
+there is a website that updated all Bios for X58 boards for Anti-Spectre & Anti-Meldtown. </br>
+
 -------------
 
 11/7/2020 - Update for Microsoft Windows (KB4578976)</br>
